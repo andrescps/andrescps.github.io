@@ -79,15 +79,15 @@ color: #FFFFFF;
 font-size: 24px;
 text-decoration: none;
 overflow: hidden;
-background-color: #190a3c;
+background-color: #030303;
 
 
 
 }
 
 .container .centro .btn-efect:hover{
-background: #190a3c;
-box-shadow: 0 0 10px #190a3c, 0 0 40px #190a3c, 0 0 80px #190a3c;
+background: #030303;
+box-shadow: 0 0 10px #030303, 0 0 40px #030303, 0 0 80px #030303;
 transition-delay: 0.1s;
 
 }
